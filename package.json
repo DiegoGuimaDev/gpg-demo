@@ -1,0 +1,7 @@
+{
+  "name": "gpg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Diego Guimarães <guimaraes.diegodev@gmail.com>",
+  "license": "MIT"
+}
